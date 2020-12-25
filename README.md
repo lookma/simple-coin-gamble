@@ -1,8 +1,8 @@
 # Simple Coin Gamble
 Simulator for a simple coins gamble.
-This gamble is inspired by the book "Gier" from Marc Elsbeg.
+This gamble is inspired by the book ["Gier"](https://de.wikipedia.org/wiki/Gier_%E2%80%93_Wie_weit_w%C3%BCrdest_du_gehen%3F) from Marc Elsbeg.
 
-This book itself was inspired by the work of the London Mathematical Laboratory and its research on ergodicity economics.
+This book itself was inspired by the work of the [London Mathematical Laboratory](http://lml.org.uk/) and its research on [ergodicity economics](http://lml.org.uk/research/economics/).
 
 ## Rules
 ### Simple Gambling
